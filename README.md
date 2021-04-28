@@ -23,3 +23,6 @@ numpy
 after training
 predict ur image class using:-
 makingPredictions- replace <image_name> in line 31 with your test image
+
+PS :- neural_net.py is only for understanding neural net architecture
+       whole training and saving weights will take place from trainingAndSavingModel.py
